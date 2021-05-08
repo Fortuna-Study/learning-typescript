@@ -11,4 +11,4 @@
 
 |주차|Root|cheolwoong|seungmin|
 |:------:|:---:|:---:|:---:|
-|2021.05.03 (1주차 월요일)|[:link:](https://github.com/Fortuna-Study/learning-typescript/tree/main/week_1)|[:link:](https://github.com/Fortuna-Study/Frontend-Interview-Library/tree/main/week_1/cheolwoong)|[:link:](https://github.com/Fortuna-Study/Frontend-Interview-Library/tree/main/week_1/cheolwoong)|
+|2021.05.03 (1주차 월요일)|[:link:](https://github.com/Fortuna-Study/learning-typescript/tree/main/week_1)|[:link:](https://github.com/Fortuna-Study/learning-typescript/tree/main/week_1/cheolwoong)|[:link:](https://github.com/Fortuna-Study/learning-typescript/tree/main/week_1/seungmin)|
