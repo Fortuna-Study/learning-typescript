@@ -87,7 +87,7 @@ type AnimalAndPerson = Animal & Person;
 
 ---
 
-- [Chapter 1 정리](https://github.com/saseungmin/reading_books_record_repository/tree/master/Do%20it%20TypeScript%20Programming/Chapter%201)
+- [Chapter 1 정리](https://saseungmin.github.io/reading_books_record_repository/docs/typescript/do-it-typescript/chapter-1)
 
 ## 👉 Chapter 2: 타입스크립트 프로젝트 생성과 관리
 
@@ -145,7 +145,7 @@ type AnimalAndPerson = Animal & Person;
 
 ---
 
-- [Chapter 2 정리](https://github.com/saseungmin/reading_books_record_repository/tree/master/Do%20it%20TypeScript%20Programming/Chapter%202)
+- [Chapter 2 정리](https://saseungmin.github.io/reading_books_record_repository/docs/typescript/do-it-typescript/chapter-2)
 
 ## 👉 Chapter 3: 객체와 타입
 
@@ -265,4 +265,4 @@ console.log(name1, name2); // Jack Jack
 
 ---
 
-- [Chapter 3 정리](https://github.com/saseungmin/reading_books_record_repository/tree/master/Do%20it%20TypeScript%20Programming/Chapter%203)
+- [Chapter 3 정리](https://saseungmin.github.io/reading_books_record_repository/docs/typescript/do-it-typescript/chapter-3)
